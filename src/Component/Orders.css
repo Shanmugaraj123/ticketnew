@@ -1,0 +1,23 @@
+.Orders{
+    margin-top: 100px;
+    height:500px;
+    width:600px;
+    text-align: center;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+   margin-left:500px;
+   padding:10px;
+}
+.Orders input{
+    padding:10px;
+    border-radius:5px;
+    width:300px;
+    text-align: center;
+}
+.Orders button{
+    margin-top: 10px;
+    border-radius:10px;
+    font-size:15px;
+    padding:8px;
+    
+   
+}

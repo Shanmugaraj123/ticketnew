@@ -1,0 +1,95 @@
+#carousel img{
+    height:400px;
+    width:100%;
+}
+
+.shan1{
+    display: flex;
+   width: 50%;
+   justify-content: space-evenly;
+ 
+}
+.shan1 div{
+    margin-top:30px;
+    border:1px solid black;
+    border-radius:10px;
+    padding:0px 6px ;
+    cursor: pointer;
+}
+
+*{
+    padding:0;
+    margin: 0;
+}
+
+.shan1 p{
+    margin-right:5px;
+    margin-top:8px;
+    padding:5px;
+}
+.chennai{
+    margin-top:30px;
+   text-align: start;
+   margin-left:20px;
+}
+
+.move1{
+    margin-top:40px;
+    display: flex;
+    justify-content:space-evenly;
+
+}
+.move1 img{
+    height:300px;
+    width:250px;
+    border-radius:9px;
+}
+
+.move1 img:hover{
+    opacity:0.5;
+}
+
+.move2{
+     margin-top:20px;
+    display: flex;
+    justify-content:space-evenly;
+
+}
+
+.move2 img{
+    height:300px;
+    width:250px;
+    border-radius:9px;
+}
+.move2 img:hover{
+    opacity:0.5;
+}
+
+
+
+
+.move3{
+      margin-top:20px;
+    display: flex;
+    justify-content:space-evenly;
+
+}
+.move3 img{
+    height:300px;
+    width:250px;
+    border-radius:9px;
+}
+.move3 img:hover{
+    opacity:0.5;
+}
+.lost{
+    margin-top:20px;
+   display: flex;
+   height:400px;
+   width:100%;
+   background-color: rgb(57, 53, 53);
+   color: azure;
+}
+.lost1{
+    margin-top:30px;
+}

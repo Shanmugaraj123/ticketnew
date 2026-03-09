@@ -1,0 +1,45 @@
+
+.Theatres{
+    margin-top:50px;
+    display: flex;
+    margin-left:100px;
+}
+.Theatres div{
+    margin-right:250px;
+    font-size:16px;
+}
+
+
+
+.Theatres1{
+    margin-top:20px;
+    display: flex;
+    margin-left:100px;
+}
+.Theatres1 div{
+    margin-right:420px;
+    font-size:16px;
+}
+
+
+
+
+.Theatres2{
+    margin-top:20px;
+    display: flex;
+    margin-left:100px;
+}
+.Theatres2 div{
+    margin-right:360px;
+    font-size:16px;
+}
+
+.Theatres3{
+    margin-top:20px;
+    display: flex;
+    margin-left:100px;
+}
+.Theatres3 div{
+    margin-right:560px;
+    font-size:16px;
+}
